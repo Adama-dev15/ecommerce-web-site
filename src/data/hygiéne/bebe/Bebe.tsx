@@ -1,0 +1,150 @@
+const BebeData = {
+  products: [
+    {
+      id: 237,
+      category: "bébé",
+      name: "Couches jetables",
+      description: "Couches jetables douces et absorbantes pour bébés.",
+      price: 15.99,
+      quantity: 50,
+      images: "../../../images/hygiéne/bebe/bebe_1.webp",
+    },
+    {
+      id: 238,
+      category: "bébé",
+      name: "Lingettes pour bébé",
+      description:
+        "Lingettes douces et hypoallergéniques pour nettoyer la peau de bébé.",
+      price: 7.99,
+      quantity: 40,
+      images: "../../../images/hygiéne/bebe/bebe_2.webp",
+    },
+    {
+      id: 239,
+      category: "bébé",
+      name: "Biberons en verre",
+      description: "Biberons en verre sans BPA pour une alimentation sûre.",
+      price: 9.99,
+      quantity: 30,
+      images: "../../../images/hygiéne/bebe/bebe_3.webp",
+    },
+    {
+      id: 240,
+      category: "bébé",
+      name: "Tétines en silicone",
+      description: "Tétines en silicone souple et confortables pour bébé.",
+      price: 3.99,
+      quantity: 25,
+      images: "../../../images/hygiéne/bebe/bebe_4.webp",
+    },
+    {
+      id: 241,
+      category: "bébé",
+      name: "Coton-tiges pour bébé",
+      description:
+        "Coton-tiges spécialement conçus pour nettoyer les oreilles de bébé en toute sécurité.",
+      price: 2.49,
+      quantity: 35,
+      images: "../../../images/hygiéne/bebe/bebe_5.webp",
+    },
+    {
+      id: 242,
+      category: "bébé",
+      name: "Crème pour le change",
+      description:
+        "Crème protectrice pour le change pour prévenir les irritations de la peau de bébé.",
+      price: 6.49,
+      quantity: 20,
+      images: "../../../images/hygiéne/bebe/bebe_6.webp",
+    },
+    {
+      id: 243,
+      category: "bébé",
+      name: "Shampooing pour bébé",
+      description:
+        "Shampooing doux pour bébé pour des cheveux propres et doux.",
+      price: 5.99,
+      quantity: 45,
+      images: "../../../images/hygiéne/bebe/bebe_7.webp",
+    },
+    {
+      id: 244,
+      category: "bébé",
+      name: "Lait de toilette pour bébé",
+      description:
+        "Lait de toilette doux pour nettoyer la peau délicate de bébé.",
+      price: 8.99,
+      quantity: 55,
+      images: "../../../images/hygiéne/bebe/bebe_8.webp",
+    },
+    {
+      id: 245,
+      category: "bébé",
+      name: "Gel lavant pour bébé",
+      description: "Gel lavant doux pour bébé pour un bain agréable.",
+      price: 4.99,
+      quantity: 60,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 246,
+      category: "bébé",
+      name: "Thermomètre pour bébé",
+      description:
+        "Thermomètre infrarouge sans contact pour mesurer la température de bébé.",
+      price: 12.99,
+      quantity: 65,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 247,
+      category: "bébé",
+      name: "Bavoirs en coton",
+      description:
+        "Bavoirs en coton absorbants pour protéger les vêtements de bébé pendant les repas.",
+      price: 3.99,
+      quantity: 70,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 248,
+      category: "bébé",
+      name: "Jouets de dentition",
+      description:
+        "Jouets de dentition pour soulager les gencives de bébé pendant la poussée dentaire.",
+      price: 9.99,
+      quantity: 75,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 249,
+      category: "bébé",
+      name: "Anneaux de dentition réfrigérants",
+      description:
+        "Anneaux de dentition réfrigérants pour apaiser les gencives douloureuses de bébé.",
+      price: 6.99,
+      quantity: 80,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 250,
+      category: "bébé",
+      name: "Gigoteuse",
+      description:
+        "Gigoteuse douce et confortable pour que bébé dorme en toute sécurité.",
+      price: 18.99,
+      quantity: 85,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 251,
+      category: "bébé",
+      name: "Cape de bain pour bébé",
+      description: "Cape de bain en coton doux pour sécher bébé après le bain.",
+      price: 14.99,
+      quantity: 90,
+      images: ["url_image1", "url_image2"],
+    },
+  ],
+};
+export default BebeData;

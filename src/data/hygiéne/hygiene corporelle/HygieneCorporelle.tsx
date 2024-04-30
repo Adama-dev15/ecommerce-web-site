@@ -1,0 +1,140 @@
+const HygieneCorporelleData = {
+  products: [
+    {
+      id: 223,
+      category: "hygiène corporelle",
+      name: "Shampooing nourrissant",
+      description: "Shampooing nourrissant pour des cheveux doux et soyeux.",
+      price: 6.99,
+      quantity: 50,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_1.webp",
+    },
+    {
+      id: 224,
+      category: "hygiène corporelle",
+      name: "Gel douche hydratant",
+      description: "Gel douche hydratant pour une peau douce et fraîche.",
+      price: 4.99,
+      quantity: 40,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_1.webp",
+    },
+    {
+      id: 225,
+      category: "hygiène corporelle",
+      name: "Déodorant roll-on",
+      description:
+        "Déodorant roll-on longue durée pour une protection efficace.",
+      price: 3.49,
+      quantity: 30,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_3.webp",
+    },
+    {
+      id: 226,
+      category: "hygiène corporelle",
+      name: "Dentifrice blanchissant",
+      description:
+        "Dentifrice blanchissant pour des dents éclatantes de blancheur.",
+      price: 5.99,
+      quantity: 25,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_4.webp",
+    },
+    {
+      id: 227,
+      category: "hygiène corporelle",
+      name: "Savon liquide antibactérien",
+      description:
+        "Savon liquide antibactérien pour une hygiène optimale des mains.",
+      price: 2.99,
+      quantity: 35,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_5.webp",
+    },
+    {
+      id: 228,
+      category: "hygiène corporelle",
+      name: "Crème hydratante pour le corps",
+      description:
+        "Crème hydratante pour le corps pour une peau douce et souple.",
+      price: 8.49,
+      quantity: 20,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_6.webp",
+    },
+    {
+      id: 229,
+      category: "hygiène corporelle",
+      name: "Lotion pour le corps",
+      description:
+        "Lotion pour le corps légère et non grasse pour une hydratation quotidienne.",
+      price: 7.99,
+      quantity: 45,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_7.webp",
+    },
+    {
+      id: 230,
+      category: "hygiène corporelle",
+      name: "Baume à lèvres hydratant",
+      description:
+        "Baume à lèvres hydratant pour des lèvres douces et nourries.",
+      price: 3.99,
+      quantity: 55,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_8.webp",
+    },
+    {
+      id: 231,
+      category: "hygiène corporelle",
+      name: "Mousse à raser",
+      description: "Mousse à raser pour un rasage précis et confortable.",
+      price: 4.49,
+      quantity: 60,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_9.webp",
+    },
+    {
+      id: 232,
+      category: "hygiène corporelle",
+      name: "Crème dépilatoire",
+      description: "Crème dépilatoire efficace pour une peau lisse et douce.",
+      price: 7.49,
+      quantity: 65,
+      images: "../../../images/hygiéne/hygiene corporelle/hygiene_10.webp",
+    },
+    {
+      id: 233,
+      category: "hygiène corporelle",
+      name: "Tampons hygiéniques",
+      description:
+        "Tampons hygiéniques pour une protection fiable pendant les règles.",
+      price: 6.99,
+      quantity: 70,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 234,
+      category: "hygiène corporelle",
+      name: "Crème antirides",
+      description: "Crème antirides pour une peau visiblement plus jeune.",
+      price: 12.99,
+      quantity: 75,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 235,
+      category: "hygiène corporelle",
+      name: "Gel désinfectant pour les mains",
+      description:
+        "Gel désinfectant pour les mains pour une hygiène instantanée.",
+      price: 3.99,
+      quantity: 80,
+      images: ["url_image1", "url_image2"],
+    },
+    {
+      id: 236,
+      category: "hygiène corporelle",
+      name: "Gel coiffant",
+      description:
+        "Gel coiffant pour une tenue longue durée et une brillance intense.",
+      price: 5.49,
+      quantity: 85,
+      images: ["url_image1", "url_image2"],
+    },
+  ],
+};
+export default HygieneCorporelleData;
